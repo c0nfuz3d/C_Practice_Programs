@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1365234190 source:c:\users\james\dropbox\my programs\c\stopwatch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
